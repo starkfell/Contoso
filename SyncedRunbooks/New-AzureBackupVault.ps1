@@ -1,4 +1,4 @@
-﻿<#
+<#
 
     .SYNOPSIS
        Creates new Azure Backup Vault from AzureRM cmdlets.
@@ -43,7 +43,7 @@
        In case that vale is not provided the runbook will fail.
     
     .OUTPUTS
-        Outputs result message for the workflow.
+        Outputs result message for the workflow. THIS IS JUST A TEST TO SEE IT UPDATE!
 #>
 workflow  New-AzureBackupVault
 {
