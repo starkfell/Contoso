@@ -43,7 +43,7 @@
        In case that vale is not provided the runbook will fail.
     
     .OUTPUTS
-        Outputs result message for the workflow. THIS IS JUST A TEST TO SEE IT UPDATE!
+        Outputs result message for the workflow. REMOVED THE UPDATE
 #>
 workflow  New-AzureBackupVault
 {
