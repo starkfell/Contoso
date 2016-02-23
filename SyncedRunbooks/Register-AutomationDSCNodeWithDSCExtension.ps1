@@ -1,4 +1,4 @@
-﻿<#
+<#
 
     .SYNOPSIS
        Register Azure v2 VM to Azure Automation DSC as Node
@@ -48,7 +48,7 @@
        In case that vale is not provided the runbook will fail.
     
     .OUTPUTS
-        Outputs result message for the workflow.
+        Outputs result message for the workflow. THIS IS ONLY A TEST, BALH BALH BALH BALH BLHA
 #>
 workflow Register-AutomationDSCNodeWithDSCExtension
 {
